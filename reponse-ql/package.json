@@ -1,0 +1,14 @@
+{
+  "name": "reponse-ql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Fonseca",
+  "license": "ISC",
+  "dependencies": {
+    "objectql": "^1.0.1"
+  }
+}
