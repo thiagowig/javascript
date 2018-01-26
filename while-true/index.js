@@ -6,6 +6,7 @@ var shelljs = require('shelljs')
 process.setMaxListeners(5);
 
 program
+    .version('1.0.0')
     .option('-c, --command <command>', 'Command to run (required)')
     .option('-i, --interval <interval>', 'Interval between executions, in seconds (required)', parseInt)
     .option('-d, --duration [duration]', 'Duration of iterations, in seconds (optional)', parseInt)
