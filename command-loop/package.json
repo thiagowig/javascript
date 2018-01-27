@@ -1,6 +1,6 @@
 {
   "name": "command-loop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command runner",
   "main": "index.js",
   "bin": {
