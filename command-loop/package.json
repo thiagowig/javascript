@@ -1,10 +1,10 @@
 {
-  "name": "while-true",
+  "name": "command-loop",
   "version": "1.0.0",
   "description": "Command runner",
   "main": "index.js",
   "bin": {
-    "while-true": "index.js"
+    "command-loop": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
